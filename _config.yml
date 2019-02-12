@@ -28,7 +28,7 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 
 # Social links
 twitter: 'ksivamuthu'
-facebook: 'sivamuthukumar'
+facebook: 'ksivamuthu'
 github: 'ksivamuthu'
 codepen: 'ksivamuthu'
 medium: '@ksivamuthu'
@@ -38,8 +38,8 @@ linkedin: 'ksivamuthu'
 navigation:
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
+  - text: Talks
+    url: /talks/
   - text: Contact Me
     url: /contact/
 
