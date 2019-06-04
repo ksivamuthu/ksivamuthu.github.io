@@ -1,11 +1,11 @@
 # Site setings
 name: 'Sivamuthu Kumar'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+description: 'Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu'
+meta_description: 'Sivamuthu Kumar's Personal website and blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://ksivamuthu.netlify.com/
+production_url: https://sivamuthukumar.netlify.com/
 disqus: 'ksivamuthu'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
@@ -28,8 +28,6 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 twitter: 'ksivamuthu'
 facebook: 'ksivamuthu'
 github: 'ksivamuthu'
-codepen: 'ksivamuthu'
-medium: '@ksivamuthu'
 linkedin: 'ksivamuthu'
 
 # Navigation
