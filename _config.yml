@@ -37,11 +37,11 @@ linkedin: 'ksivamuthu'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Talks
-    url: /talks/
+    url: /talks
   - text: Contact Me
-    url: /contact/
+    url: /contact
 
 # Required Plugins
 plugins_dir:
@@ -52,7 +52,7 @@ plugins_dir:
 
 # Pagination
 paginate: 5
-paginate_path: /page:num/
+paginate_path: /page:num
 
 # Permalinks
 permalink: /:title
