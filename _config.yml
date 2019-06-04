@@ -6,12 +6,10 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://ksivamuthu.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+disqus: 'ksivamuthu'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
 ga_analytics: 
-
 
 # Author
 author:
