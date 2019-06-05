@@ -12,13 +12,14 @@ Siva is responsible for developing both large enterprise applications as well as
 ## Product Expertise 
 
 Siva has an abundant amount of experience developing enterprise applications using a variety of Microsoft and Mobile technologies. He has developed many applications using Xamarin, Angular, NodeJS, Native iOS, Android and cloud products. Siva has experience and holds expertise with the following list of products and technologies:
-•	Xamarin, C#, .NET, JavaScript
-•	Android, iOS, Hybrid Mobile – Cordova, Ionic, Native script, React Native
-•	Angular, Typescript
-•	NodeJS Web frameworks and Security
-•	Microservices
-•	C# and related .NET languages 
-•	Cloud –  Google Cloud, AWS, Azure
+
+*	Xamarin, C#, .NET, JavaScript
+*	Android, iOS, Hybrid Mobile – Cordova, Ionic, Native script, React Native
+*	Angular, Typescript
+*	NodeJS Web frameworks and Security
+*	Microservices
+*	C# and related .NET languages 
+*	Cloud –  Google Cloud, AWS, Azure
 
 ## Professional Experience 
 
