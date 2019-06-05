@@ -44,10 +44,11 @@ The following is a sampling of the professional experience Siva has with clients
 
 ## Certifications
 *   Azure Certified Solutions Architect
-•	AWS – Solution Architect - 2018
-•	Microsoft Certified Professional Developer – Enterprise Application Developer 3.5
-•	Microsoft – Programming in HTML5 with JavaScript and CSS3 – Specialist
-•	Cloudera – Cloudera Certified Developer for Apache Hadoop
+*	AWS – Solution Architect - 2018
+*	Microsoft Certified Professional Developer – Enterprise Application Developer 3.5
+*	Microsoft – Programming in HTML5 with JavaScript and CSS3 – Specialist
+*	Cloudera – Cloudera Certified Developer for Apache Hadoop
 
 ## Education 
+
 Siva earned his master’s degree from Anna University on Technology management and undergraduate from Anna University on Electrical and Electronics.
