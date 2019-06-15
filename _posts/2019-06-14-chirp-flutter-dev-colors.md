@@ -37,8 +37,6 @@ If you tap the "Angular Red" list item, you can hear the audio and the python pr
 * Repository of the project:
   [Chirp Flutter Dev Colors](https://github.com/ksivamuthu/chirp-flutter-dev-colors)
 
-  {%twitter 1139635690143133696 %}
-
 * Screenshot of the app:
 
 <img style="vertical-align:top" src="https://raw.githubusercontent.com/ksivamuthu/chirp-flutter-dev-colors/master/docs/screenshot.jpg" width="200"><img>
@@ -221,7 +219,7 @@ python3 index.py
 
 You can see the demo in action in below video.
 
-{% youtube XvyMYcOwpY8 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XvyMYcOwpY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Action Items for you
 
