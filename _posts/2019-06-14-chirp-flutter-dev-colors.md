@@ -54,7 +54,7 @@ If you tap the "Angular Red" list item, you can hear the audio and the python pr
 * [Philips Hue Light Bulb & Hue Smart Bridge](https://www2.meethue.com/en-us) **
 * Mobile device - iOS or Android
 
-> ** You can use other bulbs or models. You might need to update the code to call the API of the light you are using.
+ ** *You can use other bulbs or models. You might need to update the code to call the API of the light you are using.*
 
 ## Getting Started
 
