@@ -46,7 +46,6 @@ plugins_dir:
   - jekyll-tagsgenerator
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-twitter-plugin
 
 # Pagination
 paginate: 5
