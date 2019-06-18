@@ -35,6 +35,8 @@ twitch: 'ksivamuthu'
 navigation:
   - text: About
     url: /about
+  - text: Stream
+    url: /live
   - text: Talks
     url: /talks
   - text: Contact Me
