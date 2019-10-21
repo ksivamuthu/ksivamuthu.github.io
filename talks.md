@@ -2,7 +2,6 @@
 layout: page
 title: Technical Talks
 ---
-
 - [Technical Talks](#technical-talks)
   - [2018](#2018)
     - [Boost your Bot's IQ](#boost-your-bots-iq)
@@ -32,15 +31,15 @@ title: Technical Talks
 ### Boost your Bot's IQ
 *JaxDUG - Jacksonville - Jun 14, 2018*
 
-- Repo: https://github.com/ksivamuthu/boost-bots-iq
-- Slides: https://speakerdeck.com/ksivamuthu/boost-your-bots-iq
+- Repo: <https://github.com/ksivamuthu/boost-bots-iq>
+- Slides: <https://speakerdeck.com/ksivamuthu/boost-your-bots-iq>
 
 ### Adding AI to Apps - Xamarin + Cognitive Services
 *North Florida Xamarin User Group - Jacksonville - July 9, 2018*
 
-- Link: https://www.meetup.com/NFLXUG/events/dhlxhpyxkbdb/
-- Repo: https://github.com/ksivamuthu/XamAI
-- Slides: https://docs.google.com/presentation/d/1svnX-Sj44RXdr3fIP6kKdmqa2b34Li3TwSsC5ukES9c/edit?usp=sharing
+- Link: <https://www.meetup.com/NFLXUG/events/dhlxhpyxkbdb/>
+- Repo: <https://github.com/ksivamuthu/XamAI>
+- Slides: <https://docs.google.com/presentation/d/1svnX-Sj44RXdr3fIP6kKdmqa2b34Li3TwSsC5ukES9c/edit?usp=sharing>
 
 ### Boost your Bot's IQ
 *TampaCC Meetup - Tampa - August 8, 2018*
