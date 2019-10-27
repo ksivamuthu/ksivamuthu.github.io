@@ -3,7 +3,9 @@ layout: page
 title: Technical Talks
 ---
 - [2019](#2019)
+  - [Managing Microservices with Kubernetes and Istio](#managing-microservices-with-kubernetes-and-istio)
   - [Build Efficient Xamarin Apps with GraphQL](#build-efficient-xamarin-apps-with-graphql)
+  - [Build Efficient Xamarin Apps with GraphQL](#build-efficient-xamarin-apps-with-graphql-1)
   - [Building high-performance IoT edge apps using Azure NodeJS SDKs](#building-high-performance-iot-edge-apps-using-azure-nodejs-sdks)
   - [Chirping Devices - Sending data over sound](#chirping-devices---sending-data-over-sound)
   - [Building serverless GraphQL with AWS Amplify](#building-serverless-graphql-with-aws-amplify)
@@ -27,6 +29,18 @@ title: Technical Talks
 
 
 ## 2019
+
+### Managing Microservices with Kubernetes and Istio
+*Tampa Community Connect - Tampa - October 26, 2019*
+
+- Repo - <https://github.com/ksivamuthu/k8s-istio-demo/>
+- Slides - <https://slides.com/sivamuthukumar/k8s-istio-demo/fullscreen#/>
+- 
+### Build Efficient Xamarin Apps with GraphQL
+*Tampa Community Connect - Tampa - October 26, 2019*
+
+- Repo - <https://github.com/ksivamuthu/xamarin-graphql-devparks/>
+- Slides - <https://slides.com/sivamuthukumar/xamarin-graphql/fullscreen#/>
 
 ### Build Efficient Xamarin Apps with GraphQL
 *Atlanta Code Camp - Atlanta - September 14, 2019*
