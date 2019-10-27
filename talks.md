@@ -35,7 +35,8 @@ title: Technical Talks
 
 - Repo - <https://github.com/ksivamuthu/k8s-istio-demo/>
 - Slides - <https://slides.com/sivamuthukumar/k8s-istio-demo/fullscreen#/>
-- 
+  
+  
 ### Build Efficient Xamarin Apps with GraphQL
 *Tampa Community Connect - Tampa - October 26, 2019*
 
