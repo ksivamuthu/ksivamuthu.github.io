@@ -3,7 +3,10 @@ layout: page
 title: Technical Talks
 ---
 - [2019](#2019)
+  - [Adding Intelligence to the Edge Devices with Cloud IoT](#adding-intelligence-to-the-edge-devices-with-cloud-iot)
+  - [Adding Intelligence to the Edge Devices with Cloud IoT](#adding-intelligence-to-the-edge-devices-with-cloud-iot-1)
   - [Managing Microservices with Kubernetes and Istio](#managing-microservices-with-kubernetes-and-istio)
+  - [Managing Microservices with Kubernetes and Istio](#managing-microservices-with-kubernetes-and-istio-1)
   - [Build Efficient Xamarin Apps with GraphQL](#build-efficient-xamarin-apps-with-graphql)
   - [Build Efficient Xamarin Apps with GraphQL](#build-efficient-xamarin-apps-with-graphql-1)
   - [Building high-performance IoT edge apps using Azure NodeJS SDKs](#building-high-performance-iot-edge-apps-using-azure-nodejs-sdks)
@@ -29,6 +32,24 @@ title: Technical Talks
 
 
 ## 2019
+
+### Adding Intelligence to the Edge Devices with Cloud IoT
+*Devfest Florida - Orlando - November 16, 2019*
+
+- Slides: https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot-devfest-fl
+- Repo: https://github.com/ksivamuthu/cloud-edge-tpu-demo
+
+### Adding Intelligence to the Edge Devices with Cloud IoT
+*Ohio Devfest - Columbus - November 2, 2019*
+
+- Slides: https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot
+- Repo: https://github.com/ksivamuthu/cloud-edge-tpu-demo
+
+### Managing Microservices with Kubernetes and Istio
+*Tampa Community Connect - Tampa - October 26, 2019*
+
+- Repo - <https://github.com/ksivamuthu/k8s-istio-demo/>
+- Slides - <https://slides.com/sivamuthukumar/k8s-istio-demo/fullscreen#/>
 
 ### Managing Microservices with Kubernetes and Istio
 *Tampa Community Connect - Tampa - October 26, 2019*
