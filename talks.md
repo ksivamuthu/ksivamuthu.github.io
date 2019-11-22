@@ -36,14 +36,14 @@ title: Technical Talks
 ### Adding Intelligence to the Edge Devices with Cloud IoT
 *Devfest Florida - Orlando - November 16, 2019*
 
-- Slides: https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot-devfest-fl
-- Repo: https://github.com/ksivamuthu/cloud-edge-tpu-demo
+- Slides: <https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot-devfest-fl>
+- Repo: <https://github.com/ksivamuthu/cloud-edge-tpu-demo>
 
 ### Adding Intelligence to the Edge Devices with Cloud IoT
 *Ohio Devfest - Columbus - November 2, 2019*
 
-- Slides: https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot
-- Repo: https://github.com/ksivamuthu/cloud-edge-tpu-demo
+- Slides: <https://speakerdeck.com/ksivamuthu/adding-intelligence-to-the-edge-devices-with-cloud-iot>
+- Repo: <https://github.com/ksivamuthu/cloud-edge-tpu-demo>
 
 ### Managing Microservices with Kubernetes and Istio
 *Tampa Community Connect - Tampa - October 26, 2019*
