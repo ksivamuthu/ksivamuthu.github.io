@@ -1,35 +1,35 @@
 # Site setings
-name: 'Sivamuthu Kumar'
-description: 'Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu'
-meta_description: 'Sivamuthu Kumar Personal website and blog'
-logo: 'assets/images/authorimage.jpg'
-favicon: 'assets/images/favicon.ico'
-baseurl: 
+name: "Sivamuthu Kumar"
+description: "Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu"
+meta_description: "Sivamuthu Kumar Personal website and blog"
+logo: "assets/images/authorimage.jpg"
+favicon: "assets/images/favicon.ico"
+baseurl:
 production_url: https://sivamuthukumar.netlify.com/
-disqus: 'ksivamuthu'
+disqus: "ksivamuthu"
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics:
 
 # Author
 author:
-  name: 'Sivamuthu Kumar'
-  image: 'authorimage.jpg'
-  greetings: 'Hello Everyone!'
-  description: 'Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu'
-  bio: 'Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu'
+  name: "Sivamuthu Kumar"
+  image: "authorimage.jpg"
+  greetings: "Hello Everyone!"
+  description: "Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu"
+  bio: "Sivamuthu Kumar - Focusing on goals 🎯 | Dad of princess | 💕@Depikarajendran | Speaker | Architect | God Driven 😇 | Code Streamer https://twitch.tv/ksivamuthu"
 
 # Contact form setings
 email: sivamuthukumar07@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+# contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+# thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'ksivamuthu'
-facebook: 'ksivamuthu'
-github: 'ksivamuthu'
-linkedin: 'ksivamuthu'
-twitch: 'ksivamuthu'
+twitter: "ksivamuthu"
+facebook: "ksivamuthu"
+github: "ksivamuthu"
+linkedin: "ksivamuthu"
+twitch: "ksivamuthu"
 
 # Navigation
 navigation:
