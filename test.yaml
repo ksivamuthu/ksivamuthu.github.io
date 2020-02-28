@@ -1,0 +1,35 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  creationTimestamp: "2019-11-20T15:18:24Z"
+  generation: 1
+  labels:
+    backend: "true"
+    user: u-siva2-dedb666
+    version: v1.0.999.284
+  name: u-siva2-dedb666-1.0.999.284-virtual-service
+  namespace: default
+  resourceVersion: "514337"
+  selfLink: /apis/networking.istio.io/v1alpha3/namespaces/default/virtualservices/u-siva2-dedb666-1.0.999.284-virtual-service
+  uid: fede3cd9-0ba8-11ea-9214-0ed76a47a333
+spec:
+  gateways:
+  - fdweb-gateway
+  hosts:
+  - '*'
+  http:
+  - match:
+    - uri:
+        prefix: /u-siva2-dedb666/api/v1.0.999.284/
+    - headers:
+        backend:
+          exact: v1.0.999.284
+      uri:
+        prefix: /u-siva2-dedb666/api/
+    rewrite:
+      uri: /api/
+    route:
+    - destination:
+        host: u-siva2-dedb666-service
+        subset: v1x0x999x284
+    websocketUpgrade: true
